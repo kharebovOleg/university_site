@@ -488,3 +488,109 @@ body {
     line-height: 63.36px;
     text-align: left;
 }
+
+.desktop_3 {
+    position: absolute;
+    width: 1440px;
+    height: 940px;
+    top: 2181px;
+}
+.desktop_3_header {
+    margin: 0;
+    position: absolute;
+    width: 217px;
+    height: 35px;
+    top: 74px;
+    left: 120px;
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.16px;
+    text-align: left;
+    color: rgba(1, 60, 211, 1);
+}
+.rectangle_11 {
+    position: absolute;
+    top: 152px;
+    left: 120px;
+    width: 495px;
+    height: 250px;
+    border-radius: 10px 10px 10px 10px;
+    background: rgba(233, 233, 233, 1);
+}
+.rectangle_12 {
+    position: absolute;
+    top: 152px;
+    left: 754px;
+    width: 495px;
+    height: 250px;
+    border-radius: 10px 10px 10px 10px;
+    background: rgba(233, 233, 233, 1);
+}
+.rectangle_13 {
+    position: absolute;
+    top: 509px;
+    left: 120px;
+    width: 495px;
+    height: 250px;
+    border-radius: 10px 10px 10px 10px;
+    background: rgba(233, 233, 233, 1);
+}
+.rectangle_14 {
+    position: absolute;
+    top: 509px;
+    left: 754px;
+    width: 495px;
+    height: 250px;
+    border-radius: 10px 10px 10px 10px;
+    background: rgba(233, 233, 233, 1);
+}
+.left_top_icon {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 24px;
+    left: 42px;
+}
+.right_top_ellipse {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    top: 19px;
+    left: 423px;
+}
+.right_top_arrow {
+    position: absolute;
+    top: 40.5px;
+    left: 434.99px;
+    z-index: 3;
+}
+.blue_header {
+    margin: 0px;
+    position: relative;
+    height: 35px;
+    top: 64px;
+    left: 42px;
+
+    font-family: 'Roboto';
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35.16px;
+    text-align: left;
+    color: rgba(3, 0, 156, 1);
+}
+.rectangle_lorem {
+    margin: 0px;
+    position: absolute;
+    width: 306px;
+    height: 108px;
+    top: 111px;
+    left: 42px;
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 17.58px;
+    text-align: left;
+    
+
+}
